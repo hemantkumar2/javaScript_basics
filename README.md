@@ -1,2 +1,2 @@
 # javaScript_basics
-This Repo has basics exercise pracctices of javascript
+This Repo has basic exercises practice of javascript
